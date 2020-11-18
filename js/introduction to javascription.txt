@@ -1,0 +1,59 @@
+data types
+boolean
+
+undefine
+
+null
+
+{} list
+[] array
+("") string
+
+function createuser(e) argument
+
+to declare variable use 
+const.
+let
+var
+
+java script data types
+undefine
+boolean
+string
+bigint
+symbol
+
+methods in js
+type window it will diplay all methods
+
+to add under in array
+use push
+e.g. job.push("mango)
+
+to add above arrayj
+use unshift
+e.g. job.unship("Mango")
+
+
+
+13/11/2020
+
+||  or
+$$  and
+!   not
+
+ECMA SERIES
+function showUser() {
+
+}      ES 5
+
+const showUser = () => {
+
+}  ES6
+
+
+BABEL
+
+WINDOW OBJECT AND DOM
+
+event

@@ -1,0 +1,2 @@
+functionx()
+tunde = getelementbyID

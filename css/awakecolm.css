@@ -1,0 +1,53 @@
+.container {
+    background-color: lightsalmon;
+}
+.leftcolm { 
+    height: 1000px;
+    width: 450px;
+    background-color:rgb(216, 208, 208);
+    float: left;
+}
+
+
+.ltext {
+    margin: 0px 40px 0px 20px;
+    text-align: justify;
+    line-height: 22px;
+}
+
+.ltext h1 {
+color: red;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 60px;
+text-transform: capitalize;
+margin: 50px 0px 0px 0px;
+font-weight: bolder;
+}
+
+.rightcolm {
+    background-color: lightcyan;
+    margin: 1px 30px 0px  500px;
+    height: 1000px;
+  }
+
+.rtext{
+    margin: 1px 40px 0px  40px;
+text-align: justify;
+padding-top: 150px;
+line-height: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.htext {
+    font-size: 26px;
+    line-height: 30px;
+}
+
+.rtext h2 {
+    font-size: 35px;
+}
+
+.h2blue {
+color: skyblue;
+
+}

@@ -1,0 +1,74 @@
+.container {
+    margin: 0px;
+    background-color: turquoise;
+}
+
+.awakebak {
+    background-color: rgb(231, 192, 192);
+}
+
+h1 {
+    margin: 0;
+color: red;
+font-size: 200px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-transform: capitalize;
+}
+
+h5 {
+    color: slateblue;
+    float: right;
+    padding-top: 115px;
+    padding-right: 80px;
+    color: rgb(139, 82, 139);
+    font-size: 25px;
+}
+
+.topimage {
+    width: 100%;
+    margin: 0px;
+    float: left
+}
+
+.t1 {
+    float: left;
+        }
+
+.t2 {
+    float: left;
+}
+
+.t3 {
+    float: left;
+}
+
+.btimage {
+    width: 100%;
+    margin: 0px;
+    float: left
+    }
+
+    .b1 {
+        float: left;
+    }
+
+    .b2 {
+        float: left;
+    }
+
+    .b3 {
+        float: left;
+    }
+
+h3 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding-top: 1100px;
+    padding-left: 70px;
+    position: absolute;
+    width: 450px;
+    color: wheat;
+    text-transform: uppercase;
+    
+}
